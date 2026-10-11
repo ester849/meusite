@@ -1,0 +1,35 @@
+css 
+body {
+    background-color: #201502;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #920000;
+    text-align: center;
+}
+
+h2 {
+    color: #920000;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+.banner {
+    display: block;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(170, 160, 133) !important;
+}
